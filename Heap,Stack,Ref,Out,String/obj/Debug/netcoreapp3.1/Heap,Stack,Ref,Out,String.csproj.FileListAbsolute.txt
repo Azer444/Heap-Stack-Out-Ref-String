@@ -1,0 +1,14 @@
+C:\Users\Azer Humbetov\source\repos\Heap,Stack,Ref,Out,String\Heap,Stack,Ref,Out,String\bin\Debug\netcoreapp3.1\Heap,Stack,Ref,Out,String.exe
+C:\Users\Azer Humbetov\source\repos\Heap,Stack,Ref,Out,String\Heap,Stack,Ref,Out,String\bin\Debug\netcoreapp3.1\Heap,Stack,Ref,Out,String.deps.json
+C:\Users\Azer Humbetov\source\repos\Heap,Stack,Ref,Out,String\Heap,Stack,Ref,Out,String\bin\Debug\netcoreapp3.1\Heap,Stack,Ref,Out,String.runtimeconfig.json
+C:\Users\Azer Humbetov\source\repos\Heap,Stack,Ref,Out,String\Heap,Stack,Ref,Out,String\bin\Debug\netcoreapp3.1\Heap,Stack,Ref,Out,String.runtimeconfig.dev.json
+C:\Users\Azer Humbetov\source\repos\Heap,Stack,Ref,Out,String\Heap,Stack,Ref,Out,String\bin\Debug\netcoreapp3.1\Heap,Stack,Ref,Out,String.dll
+C:\Users\Azer Humbetov\source\repos\Heap,Stack,Ref,Out,String\Heap,Stack,Ref,Out,String\bin\Debug\netcoreapp3.1\Heap,Stack,Ref,Out,String.pdb
+C:\Users\Azer Humbetov\source\repos\Heap,Stack,Ref,Out,String\Heap,Stack,Ref,Out,String\obj\Debug\netcoreapp3.1\Heap,Stack,Ref,Out,String.csproj.AssemblyReference.cache
+C:\Users\Azer Humbetov\source\repos\Heap,Stack,Ref,Out,String\Heap,Stack,Ref,Out,String\obj\Debug\netcoreapp3.1\Heap,Stack,Ref,Out,String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azer Humbetov\source\repos\Heap,Stack,Ref,Out,String\Heap,Stack,Ref,Out,String\obj\Debug\netcoreapp3.1\Heap,Stack,Ref,Out,String.AssemblyInfoInputs.cache
+C:\Users\Azer Humbetov\source\repos\Heap,Stack,Ref,Out,String\Heap,Stack,Ref,Out,String\obj\Debug\netcoreapp3.1\Heap,Stack,Ref,Out,String.AssemblyInfo.cs
+C:\Users\Azer Humbetov\source\repos\Heap,Stack,Ref,Out,String\Heap,Stack,Ref,Out,String\obj\Debug\netcoreapp3.1\Heap,Stack,Ref,Out,String.csproj.CoreCompileInputs.cache
+C:\Users\Azer Humbetov\source\repos\Heap,Stack,Ref,Out,String\Heap,Stack,Ref,Out,String\obj\Debug\netcoreapp3.1\Heap,Stack,Ref,Out,String.dll
+C:\Users\Azer Humbetov\source\repos\Heap,Stack,Ref,Out,String\Heap,Stack,Ref,Out,String\obj\Debug\netcoreapp3.1\Heap,Stack,Ref,Out,String.pdb
+C:\Users\Azer Humbetov\source\repos\Heap,Stack,Ref,Out,String\Heap,Stack,Ref,Out,String\obj\Debug\netcoreapp3.1\Heap,Stack,Ref,Out,String.genruntimeconfig.cache
